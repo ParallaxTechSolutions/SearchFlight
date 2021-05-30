@@ -1,0 +1,6 @@
+
+I	php:S1135~"4Complete the task associated to this "TODO" comment.(ÃêÓ¾
+j	php:S1142Ë"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Õàšæùÿÿÿÿ
+g	php:S1192m"RDefine a constant instead of duplicating this literal "admin/admin-users" 4 times.(ñâ‚œ
+‚	php:S1192m"mDefine a constant instead of duplicating this literal "brackets/admin-ui::admin.operation.succeeded" 4 times.(ñâ‚œ
+s	php:S1192E"^Define a constant instead of duplicating this literal "admin-auth.activation_enabled" 5 times.(ØÆ´¸

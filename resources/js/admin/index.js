@@ -1,0 +1,9 @@
+import './admin-user';
+import './profile-edit-profile';
+import './profile-edit-password';
+import './role';
+import './permission';
+import './geo-var';
+import './post';
+import './bravo-booking';
+import './bravo-booking-payment';
